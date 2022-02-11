@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri:wght@700&family=Ubuntu+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Reggae+One&display=swap');
+
+#test1{
+color: red;
+font-family: El Messiri;
+font-size: 25px;
+}
+
+#test2{
+color: blue;
+font-family: Ubuntu Condensed;
+font-size: 25px;
+}
+
+#test3{
+    color: green;
+    font-family: Reggae One;
+    font-size: 25px;
+}
